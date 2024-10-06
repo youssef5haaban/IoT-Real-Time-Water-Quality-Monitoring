@@ -70,12 +70,11 @@ The project consists of two main data processing pipelines:
 
 1. Set up a Google Cloud Platform account and create a new project.
 2. Enable necessary APIs (Pub/Sub, Dataflow, BigQuery, etc.).
-3. Install and configure the Google Cloud SDK.
-4. Set up Kafka and the Pub/Sub connector as described in the [Kafka and Pub/Sub Setup](#) section.
-5. Configure Dataflow jobs for data processing.
-6. Set up Elastic Cloud through the Google Cloud Marketplace.
-7. Configure BigQuery datasets and tables.
-8. Set up Power BI and connect it to BigQuery.
+3. Set up Kafka and the Pub/Sub connector as described in the [Kafka and Pub/Sub Setup](#) section.
+4. Configure Dataflow jobs for data processing.
+5. Set up Elastic Cloud through the Google Cloud Marketplace.
+6. Configure BigQuery datasets and tables.
+7. Set up Power BI and connect it to BigQuery.
 
 ### On-Premise Setup
 
