@@ -18,8 +18,7 @@ This project implements a real-time water quality monitoring system for Chicago 
 3. [Setup and Installation](#setup-and-installation)
 4. [Usage](#usage)
 5. [Data Sources](#data-sources)
-6. [Challenges and Future Work](#challenges-and-future-work)
-7. [Contributors](#contributors)
+6. [Contributors](#contributors)
 
 ## Technologies Used
 
@@ -40,7 +39,6 @@ This project implements a real-time water quality monitoring system for Chicago 
 - Elasticsearch
 - Kibana
 - Power BI
-- Docker
 
 ## System Architecture
 
