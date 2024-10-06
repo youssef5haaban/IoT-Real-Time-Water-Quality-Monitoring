@@ -51,11 +51,11 @@ The project consists of two main data processing pipelines:
 
 ### Cloud Architecture Diagram
 
-[Include cloud architecture diagram here]
+![Cloud Architecture](assets/images/Cloud Architecture.png)
 
 ### On-Premise Architecture Diagram
 
-[Include on-premise architecture diagram here]
+![Local Architecture](assets/images/Local Architecture.png)
 
 ## Setup and Installation
 
@@ -98,7 +98,6 @@ The project uses data from the Chicago Park District's Beach Water Quality - Aut
 
 For more information about the dataset, visit: [Beach Water Quality - Automated Sensors](https://data.cityofchicago.org/Parks-Recreation/Beach-Water-Quality-Automated-Sensors/qmqz-2xku)
 
-## Challenges and Future Work
 
 
 
