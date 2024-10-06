@@ -16,9 +16,8 @@ This project implements a real-time water quality monitoring system for Chicago 
 1. [Technologies Used](#technologies-used)
 2. [System Architecture](#system-architecture)
 3. [Setup and Installation](#setup-and-installation)
-4. [Usage](#usage)
-5. [Data Sources](#data-sources)
-6. [Contributors](#contributors)
+4. [Data Sources](#data-sources)
+5. [Contributors](#contributors)
 
 ## Technologies Used
 
@@ -85,9 +84,6 @@ The project consists of two main data processing pipelines:
 5. Configure SSIS packages for ETL operations.
 6. Set up Power BI and connect it to your local data sources.
 
-## Usage
-
-[Provide instructions on how to run the system, including any commands or scripts that need to be executed]
 
 ## Data Sources
 
