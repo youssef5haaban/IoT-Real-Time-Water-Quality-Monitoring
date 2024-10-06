@@ -51,11 +51,11 @@ The project consists of two main data processing pipelines:
 
 ### Cloud Architecture Diagram
 
-![Cloud Architecture](assets/images/Cloud Architecture.png)
+![Cloud Architecture](https://github.com/youssef5haaban/IoT_Real-Time_Water_Quality_Monitoring/blob/main/assets/images/Cloud_Architecture.png)
 
 ### On-Premise Architecture Diagram
 
-![Local Architecture](assets/images/Local Architecture.png)
+![Local Architecture](https://github.com/youssef5haaban/IoT_Real-Time_Water_Quality_Monitoring/blob/main/assets/images/Local_Architecture.png)
 
 ## Setup and Installation
 
